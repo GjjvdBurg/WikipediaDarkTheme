@@ -743,6 +743,9 @@ table.wikitable > tr > th,
 table.wikitable > * > tr > th {
 	background-color: #111;
 }
+.navbox th, .navbox title {
+	background-color: #3a4351 !important;
+}
 .navbox,
 .navbox-subgroup {
 	background-color: #23272a;

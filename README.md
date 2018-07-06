@@ -10,6 +10,7 @@ I've added:
    Theme](https://github.com/isagalaev/highlight.js/blob/master/src/styles/tomorrow-night.css) 
    from [highlight.js](https://highlightjs.org/).
  - Invert math elements
+ - Anything shown in the git commits.
 
 ## Usage
 
