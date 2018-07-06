@@ -1,0 +1,98 @@
+/* Tomorrow Comment */
+.mw-highlight .c,   /* Comment */
+.mw-highlight .ch,  /* Comment.Hashbang */
+.mw-highlight .cm,  /* Comment.Multiline */
+.mw-highlight .c1,  /* Comment.Single */
+.mw-highlight .cs   /* Comment.Special */
+{
+	font-weight: normal;
+	color: #969896;
+}
+
+/* Tomorrow Red */
+.mw-highlight .sr,  /* Literal.String.Regex */
+.mw-highlight .nv,  /* Name.Variable */
+.mw-highlight .nt   /* Name.Tag */
+{
+	font-weight: normal;
+	color: #cc6666;
+}
+
+
+/* Tomorrow Orange */
+.mw-highlight .m,   /* Literal.Number */
+.mw-highlight .mb,  /* Literal.Number.Bin */
+.mw-highlight .mf,  /* Literal.Number.Float */
+.mw-highlight .mh,  /* Literal.Number.Hex */
+.mw-highlight .mi,  /* Literal.Number.Integer */
+.mw-highlight .mo,  /* Literal.Number.Oct */
+.mw-highlight .nb,  /* Name.Builtin */
+.mw-highlight .bp,  /* Name.Builtin.Pseudo */
+.mw-highlight .kt,  /* Keyword.Type */
+.mw-highlight .il,  /* Literal.Number.Integer.Long */
+.mw-highlight .gp,  /* Generic.Prompt */
+.mw-highlight .cp,  /* Comment.Preproc */
+.mw-highlight .cpf, /* Comment.PreprocFile */
+.mw-highlight .nf   /* Name.Function */
+{
+	font-weight: normal;
+	color: #de935f;
+}
+
+/* Tomorrow Green */
+.mw-highlight .dl,  /* Literal.String.Delimiter */
+.mw-highlight .s,   /* Literal.String */
+.mw-highlight .s1,  /* Literal.String.Single */
+.mw-highlight .s2,  /* Literal.String.Double */
+.mw-highlight .sa,  /* Literal.String.Affix */
+.mw-highlight .sb,  /* Literal.String.Backtick */
+.mw-highlight .sc,  /* Literal.String.Char */
+.mw-highlight .sd,  /* Literal.String.Doc */
+.mw-highlight .se,  /* Literal.String.Escape */
+.mw-highlight .sh,  /* Literal.String.Heredoc */
+.mw-highlight .si,  /* Literal.String.Interpol */
+.mw-highlight .ss,  /* Literal.String.Symbol */
+.mw-highlight .sx   /* Literal.String.Other */
+{
+	font-weight: normal;
+	color: #b5bd68;
+}
+
+/* Tomorrow Purple */
+.mw-highlight .k,  /* Keyword */
+.mw-highlight .kc, /* Keyword.Constant */
+.mw-highlight .kd, /* Keyword.Declaration */
+.mw-highlight .kn, /* Keyword.Namespace */
+.mw-highlight .kp, /* Keyword.Pseudo */
+.mw-highlight .kr  /* Keyword.Reserved */
+{
+	font-weight: normal;
+	color: #b294bb;
+}
+
+/* Tomorrow Blue */
+.mw-highlight .nc /* Name.Class */
+{
+	font-weight: normal;
+	color: #81a2be;
+}
+
+/* All Other */
+.mw-highlight .o,  /* Operator */
+.mw-highlight .ow, /* Operator.Word */
+.mw-highlight .w,  /* Text.Whitespace */
+.mw-highlight .nn /* Name.Namespace */
+{
+	font-weight: normal;
+  	color: #c5c8c6;
+}
+
+.mw-highlight .ge { /* Generic.Emph */
+	font-style: italic;
+}
+
+.mw-highlight .gs { /* Generic.Strong */
+	font-weight: bold
+}
+
+
