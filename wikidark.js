@@ -757,7 +757,7 @@
 	"    }",
 	"    table.wikitable > tr > th,",
 	"    table.wikitable > * > tr > th {",
-	"    background-color: #111;",
+	"    background-color: #111 !important;",
 	"    }",
 	"    .navbox th, .navbox title {",
 	"    background-color: #3a4351 !important;",
