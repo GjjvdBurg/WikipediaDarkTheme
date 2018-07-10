@@ -325,9 +325,11 @@ a:hover {
 #mw-navigation #p-lang .wbc-editpage {
 	display: none !important;
 }
-an.mwe-math-element {
+
+span.mwe-math-element {
 	filter: invert(100%);
 }
+
 /* article */
 /* headlines */
 #firstHeading {
