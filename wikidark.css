@@ -791,6 +791,10 @@ tr + tr > .navbox-list {
 	display: none !important;
 }
 
+ol.references li:target, sup.reference:target {
+	background-color: #4b3327;
+}
+
 /* code formatting (highlight.js tomorrow night) */
 
 
