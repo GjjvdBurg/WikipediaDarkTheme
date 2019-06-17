@@ -330,6 +330,9 @@ span.mwe-math-element, img.mwe-math-fallback-image-display {
 	filter: invert(100%);
 }
 
+div[style="margin: ;padding: 6px; border:2px solid #0073CF;background: #F5FFFA; text-align: center; display: table"] {
+	background: #484848 !important;
+}
 
 /* article */
 /* headlines */
