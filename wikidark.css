@@ -170,6 +170,15 @@ body {
 	background: #2c2f33 !important;
 	color: #ccc !important;
 }
+.vevent {
+	background: #2c2f33 !important;
+}
+div[role="region"] {
+	background: #2c2f33 !important;
+}
+.mw-collapsible-content {
+	background: #2c2f33 !important;
+}
 a {
 	text-decoration: none !important;
 }
@@ -330,8 +339,8 @@ span.mwe-math-element, img.mwe-math-fallback-image-display {
 	filter: invert(100%);
 }
 
-div[style="margin: ;padding: 6px; border:2px solid #0073CF;background: #F5FFFA; text-align: center; display: table"] {
-	background: #484848 !important;
+div.equation-box {
+	background: #23272a !important;
 }
 
 /* article */
@@ -753,7 +762,7 @@ table.wikitable > tr > th,
 table.wikitable > * > tr > th {
 	background-color: #111 !important;
 }
-.navbox th, .navbox title {
+.navbox th, .navbox title, div[role="heading"], .plainlinks {
 	background-color: #3a4351 !important;
 }
 .navbox,
