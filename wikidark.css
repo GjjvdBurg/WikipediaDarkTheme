@@ -807,6 +807,10 @@ ol.references li:target, sup.reference:target {
 	background-color: #4b3327;
 }
 
+.mw-parser-output blockquote.talkquote {
+	background-color: #444 !important;
+}
+
 /* code formatting (highlight.js tomorrow night) */
 
 

@@ -8,7 +8,7 @@
 // @include       https://wikipedia.org/*
 // @include       http://*.wikipedia.org/*
 // @include       https://*.wikipedia.org/*
-// @run-at        document-start
+// @run-at        document-end
 // @version       0.20180128185147
 // ==/UserScript==
 (function() {var css = [
@@ -819,6 +819,10 @@
 	"    ",
 	"    ol.references li:target, sup.reference:target {",
 	"    background-color: #4b3327;",
+	"    }",
+	"    ",
+	"    .mw-parser-output blockquote.talkquote {",
+	"    background-color: #444 !important;",
 	"    }",
 	"    ",
 	"    /* code formatting (highlight.js tomorrow night) */",
