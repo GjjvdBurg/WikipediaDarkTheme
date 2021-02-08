@@ -253,7 +253,6 @@ a:hover {
 	margin-top: 13px !important;
 	margin-left: 15px !important;
 	border: none !important;
-	background: #111 !important;
 	width: 345px !important;
 	padding: 0 0 7px !important;
 }
@@ -809,6 +808,10 @@ ol.references li:target, sup.reference:target {
 
 .mw-parser-output blockquote.talkquote {
 	background-color: #444 !important;
+}
+
+.vector-menu-tabs {
+	background-image: none;
 }
 
 /* code formatting (highlight.js tomorrow night) */
