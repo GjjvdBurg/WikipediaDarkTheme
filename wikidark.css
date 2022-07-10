@@ -814,6 +814,15 @@ ol.references li:target, sup.reference:target {
 	background-image: none;
 }
 
+/* For maps on Wikivoyage */
+
+div .leaflet-control-container .leaflet-top,
+div .leaflet-control-container .leaflet-bottom,
+div .leaflet-control-container .leaflet-right,
+div .leaflet-control-container .leaflet-left {
+	background-color: transparent !important;
+}
+
 /* code formatting (highlight.js tomorrow night) */
 
 

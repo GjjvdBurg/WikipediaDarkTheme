@@ -8,6 +8,8 @@
 // @include       https://wikipedia.org/*
 // @include       http://*.wikipedia.org/*
 // @include       https://*.wikipedia.org/*
+// @include       https://*.wikivoyage.org/*
+// @include       https://wikivoyage.org/*
 // @run-at        document-end
 // @version       0.20180128185147
 // ==/UserScript==

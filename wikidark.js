@@ -8,6 +8,8 @@
 // @include       https://wikipedia.org/*
 // @include       http://*.wikipedia.org/*
 // @include       https://*.wikipedia.org/*
+// @include       https://*.wikivoyage.org/*
+// @include       https://wikivoyage.org/*
 // @run-at        document-end
 // @version       0.20180128185147
 // ==/UserScript==
@@ -826,6 +828,15 @@
 	"    ",
 	"    .vector-menu-tabs {",
 	"    background-image: none;",
+	"    }",
+	"    ",
+	"    /* For maps on Wikivoyage */",
+	"    ",
+	"    div .leaflet-control-container .leaflet-top,",
+	"    div .leaflet-control-container .leaflet-bottom,",
+	"    div .leaflet-control-container .leaflet-right,",
+	"    div .leaflet-control-container .leaflet-left {",
+	"    background-color: transparent !important;",
 	"    }",
 	"    ",
 	"    /* code formatting (highlight.js tomorrow night) */",
